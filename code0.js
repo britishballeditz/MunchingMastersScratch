@@ -25,7 +25,7 @@ gdjs.Untitled_32sceneCode.condition0IsTrue_0.val = false;
 {
 gdjs.Untitled_32sceneCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
 }if (gdjs.Untitled_32sceneCode.condition0IsTrue_0.val) {
-{gdjs.evtTools.window.openURL("google.com", runtimeScene);
+{gdjs.evtTools.window.openURL("scratch.mit.edu/projects/832906100", runtimeScene);
 }}
 
 }
@@ -41,7 +41,7 @@ gdjs.Untitled_32sceneCode.condition0IsTrue_0.val = false;
 {
 gdjs.Untitled_32sceneCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.Untitled_32sceneCode.mapOfGDgdjs_46Untitled_9532sceneCode_46GDPlayObjects1Objects, runtimeScene, true, false);
 }if (gdjs.Untitled_32sceneCode.condition0IsTrue_0.val) {
-{gdjs.evtTools.window.openURL("google.com", runtimeScene);
+{gdjs.evtTools.window.openURL("scratch.mit.edu/projects/832906100", runtimeScene);
 }
 { //Subevents
 gdjs.Untitled_32sceneCode.eventsList0(runtimeScene);} //End of subevents
