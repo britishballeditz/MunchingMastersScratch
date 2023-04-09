@@ -1,0 +1,12 @@
+{
+  "name": "Munching Masters - Clicker Game On Scratch",
+  "short_name": "Munching Masters - Clicker Game On Scratch",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
